@@ -6,9 +6,8 @@ This is a blog site built using the MERN stack (MongoDB, Express.js, React.js, a
 ### Backend
 * dompurify: Used to sanitize HTML inputs from the client.
 * express: Used as the web framework for the server.
-* js-dom : 
+* js-dom : server side rendering for purification of markdown.
 * method-override: Used to support HTTP verbs such as PUT and DELETE in HTML forms.
-* react-router-dom: Used to handle client-side routing for React components.
 * slugify: Used to convert strings to URL-friendly slugs.
 
 ### Frontend

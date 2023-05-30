@@ -2,8 +2,8 @@
 # Blog Site
 This is a blog site built using the MERN stack (MongoDB, Express.js, React.js, and Node.js) with additional packages for backend and frontend development and datbase deployed on mongodb atlas using aws cloud service and deployed on vercel .
 
-
-[click here : blog-site](https://client-eta-ten.vercel.app/blogs)
+##Link Nagivates to my blog web application
+[click here for blog-site](https://client-eta-ten.vercel.app/blogs)
 ## Packages Used
 ### Backend
 * dompurify: Used to sanitize HTML inputs from the client.

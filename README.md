@@ -1,13 +1,12 @@
 
 # Blog Site
-This is a blog site built using the MERN stack (MongoDB, Express.js, React.js, and Node.js) with additional packages for backend and frontend development.
+This is a blog site built using the MERN stack (MongoDB, Express.js, React.js, and Node.js) with additional packages for backend and frontend development and datbase deployed on mongodb atlas using aws cloud service.
 
 ## Packages Used
 ### Backend
 * dompurify: Used to sanitize HTML inputs from the client.
 * express: Used as the web framework for the server.
-* jsdom: Used to create a virtual DOM for server-side rendering of React components.
-* jsdom: Used to create a virtual DOM for server-side rendering of React components.
+* js-dom : 
 * method-override: Used to support HTTP verbs such as PUT and DELETE in HTML forms.
 * react-router-dom: Used to handle client-side routing for React components.
 * slugify: Used to convert strings to URL-friendly slugs.
@@ -40,7 +39,5 @@ The first command installs the required dependencies, and the second command sta
 ### Images
 
 <img width="1080" alt="Screenshot 2023-05-14 114358" src="https://github.com/heykvr/blog-site/assets/117711617/56f73fac-3aa5-4b7c-b04d-f9e0aaf4d5b3">
-
-
 <img width="1080" alt="Screenshot 2023-05-14 114451" src="https://github.com/heykvr/blog-site/assets/117711617/2b2f2d3d-eca1-408a-9d12-f9ab7ea4bf79">
 <img width="1080" alt="Screenshot 2023-05-14 114527" src="https://github.com/heykvr/blog-site/assets/117711617/2aeceb05-eb81-448c-9f82-61b1ba215fff">
